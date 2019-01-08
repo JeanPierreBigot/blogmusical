@@ -1,0 +1,141 @@
+/*COLOR DE FONDO*/
+body
+{
+background-color:rgb(214,234,248) ;
+}
+/* CLASE DEL BANER PRINCIPAL*/
+.barraprincipal
+{
+background-color:rgb(52,73,95);
+margin:20px 20px 20px 20px;
+text-align:center;
+border-radius:20px;
+padding:5px;
+}
+/* CLASE DEL TAMAÑO DE LA IMAGEN DEL LOGO DEL BLOG*/
+.logoblog
+{
+width:100px;
+float:left;
+
+}
+/*CLASE CON EL FORMATO DE TEXTO DEL SLOGAN*/
+.slogan
+{
+float:left ;
+font-family:fantasy;
+font-size:40px;
+color:white;
+}
+/*CLASE PARA DAR FORMATO A LOS BOTONES DE LAS DIFERENTES CLASES SOCIALES*/
+.lf
+{
+width:20px;
+right:auto;
+}
+.lg
+{
+width:20px;
+right:auto;
+}
+.llk
+{
+width:20px;
+right:auto;
+}
+.lf
+{
+width:20px;
+right:auto;
+}
+.ltmb
+{
+width:20px;
+right:auto;
+}
+.ltw
+{
+width:20px;
+right:auto;
+}
+/*CLASE PARA DAR FORMATO ALFORMATO DEL PIE DE EL BLOG*/
+.barranav
+{
+  background-color:rgb(52,73,95);
+  margin:20px 20px 20px 20px;
+  text-align:center;
+}
+/* CLASES PARA DAR FORMATO AL DE TEXTO DE LAS COLUMNAS*/
+.columna1
+{
+background-color:rgb(52,73,95);
+width:40%;
+margin-right:20px;
+margin-left:40px;
+
+}
+.columna2
+{
+  width:40%;
+background-color:rgb(52,73,95);
+margin-left:20px;
+margin-rigth:10px;
+}
+.boton1
+{
+border-radius:10px;
+padding:1px;
+border:1px solid #000000;
+background-color:rgb(23,32,42);
+}
+.boton2
+{
+border-radius:10px;
+padding:1px;
+border:1px solid #000000;
+background-color:rgb(23,32,42);
+}
+.boton3
+{
+border-radius:10px;
+padding:1px;
+border:1px solid #000000;
+background-color:rgb(23,32,42);
+}
+.boton4
+{
+border-radius:10px;
+padding:1px;
+border:1px solid #000000;
+background-color:rgb(23,32,42);
+}
+.boton5
+{
+border-radius:10px;
+padding:1px;
+border:1px solid #000000;
+background-color:rgb(23,32,42);
+}
+.boton6
+{
+border-radius:10px;
+padding:1px;
+border:1px solid #000000;
+background-color:rgb(23,32,42);
+}
+.redessociales
+{
+float:rigth;
+}
+.imagen1
+{
+float:rigth;
+}
+.imagen2
+{
+float:lefth;
+}
+.imagen2
+{
+floar:rigth;
+}
